@@ -2,5 +2,5 @@
   "version": "2.0",
   "download_url": "https://github.com/Diktor-boop/SpaceSpoofer-Updates/releases/download/v2.0/SpaceSpoofer.exe",
   "mandatory": false,
-  "changelog": "v2.0:\n- Добавлен JSON формат обновлений\n- Добавлен просмотр истории версий\n- Улучшена стабильность работы\n\nv2.4:\n- Исправлен баг с MAC-адресом\n- Добавлена кнопка очистки Steam"
+  "changelog": "v2.1:\n- Пофиксил баг с сетью\n- Добавил новую кнопку"
 }
