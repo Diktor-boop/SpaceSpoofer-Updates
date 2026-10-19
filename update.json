@@ -1,6 +1,6 @@
 {
   "version": "2.1",
   "download_url": "https://github.com/Diktor-boop/SpaceSpoofer-Updates/releases/download/v2.0/SpaceSpoofer.exe",
-  "mandatory": false,
+  "mandatory": true,
   "changelog": "v2.1:\n- Пофиксил баг с сетью\n- Добавил новую кнопку"
 }
